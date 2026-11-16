@@ -1,2 +1,2 @@
 # nigeria-food-price-analysis
-Analysis of the inflation of food rice in Nigeria
+Analysis on the inflation of food rice in Nigeria
